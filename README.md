@@ -22,9 +22,9 @@
 | **Databases** | SQL, MongoDB |
 
 ### **Data & Specialized**
-* **Data Science:** NumPy, Pandas
+* **Data Science:** NumPy, Pandas , Scikit learn , Mlxtend , Tensorflow
 * **Data Visualization:** Matplotlib, Seaborn
-* **Computer Vision:** OpenCV
+* **Computer Vision:** OpenCV , MediaPipe
 
 ---
 
