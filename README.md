@@ -42,14 +42,6 @@ Check out my full collection of projects, including live demos and source code, 
 
 ➡️ **[View All My Projects Here](https://sakshamengineer.github.io/portfolio/#/projects)**
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshamengineer&show_icons=true&theme=dark" alt="Saksham's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamengineer&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 ---
 
